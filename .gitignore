@@ -1,0 +1,11 @@
+.vscode/
+node_modules/
+.expo/
+npm-debug.*
+
+artifacts/
+
+android/app/build/
+android/.idea/
+android/local.properties
+ios/build/
